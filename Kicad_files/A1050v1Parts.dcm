@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Conn_Amiga1000_ramex_02x30_number_side_letter_side
+D Generic connector, double row, 02x30, row letter last pin numbering scheme (pin number consists of a letter for the row and a number for the pin index in this row. 1a, ..., Na; 1b, ..., Nb)), script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F https://www.mouser.com/datasheet/2/123/3/337_060_540_202___EDAC_Card_Edge_Connector-2227262.pdf
+$ENDCMP
+#
+$CMP HM50464
+F https://rocelec.widen.net/view/pdf/i3gbnikep9/TXIIS146290-1.pdf?t.download=true&u=5oefqw
+$ENDCMP
+#
+#End Doc Library
