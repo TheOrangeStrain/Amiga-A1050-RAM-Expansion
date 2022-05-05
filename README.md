@@ -1,6 +1,11 @@
 # Amiga-A1050-RAM-Expansion
 A knockoff of the A1050 front mounted RAM Expansion for the Amiga 1000
 
+
+FYI: I noticed today (May 4, 2022) there is a seller on ebay [item desc: 256Kb RAM  AMIGA 1000 ( GREEN FULL SET )!!! . NEW IN STOCK] who has a number of fully assembled units for sale.  They are listed as shipping from Poland. Cost would be just over $31 USD, including shipping, to ship to the USA. 
+This is NOT an endorsement of this seller.  Just passing on the information. --TOD
+
+
 The problem:
 I have a craiglist.com Amiga A1000 rescue. Many parts are missing. Basically I have the case, motherboard, daughterboard and power supply.  I was able to find key parts (Amiga 2000 keyboard, keyboard adapter for A1000, mouse and replacement Paula).  Howevery, the system only had 256k of RAM. This is not enough to do, well, just about anything.  Standalone RAM expansions like the A1050 are rare and often expensive if you are lucky enough to find one.  So I decided to design build my one A1050 knockoff.
 
